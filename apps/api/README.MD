@@ -1,3 +1,11 @@
-# API
+To install dependencies:
+```sh
+bun install
+```
 
-Read the root README.md for instructions
+To run:
+```sh
+bun run dev
+```
+
+open http://localhost:3000
