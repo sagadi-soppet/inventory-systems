@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-template",
+  "name": "inventory-systems",
   "private": true,
   "scripts": {
     "dev": "turbo dev",

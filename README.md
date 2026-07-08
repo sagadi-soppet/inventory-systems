@@ -1,4 +1,4 @@
-# Monorepo Template
+# Inventory Systems
 
 It's a monorepo template using turbo as it's driver
 

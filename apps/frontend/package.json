@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "inventory-systems-frontend",
   "private": true,
   "type": "module",
   "imports": {
